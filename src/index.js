@@ -1,6 +1,10 @@
 
 console.log('\nProgram is starting!');
 
+// Run your code with:
+// ```shell
+//   npm run start --silent
+// ```
 
 // Task 1. import the secret from `a.js`
 const secret = 'No secret yet...'; // Replace me with import
@@ -29,7 +33,7 @@ console.log('\n\nTask 3.\nResult:', b);
           Considering hos destructuring works, will the line below print 42 or 3?
           Why?
 */
-const id = 'No id yet...'; // Replace me with: import { id } from './b/b.js';
+const id = 'No id yet...'; // Replace me with: import { id } from './b/b.js';
 console.log('\n\nTask 4.\nResult: ' + id);
 
 
