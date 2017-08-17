@@ -22,8 +22,10 @@ module.exports = {
     'no-console': 0,
     'prefer-template': 0,
     'import/no-extraneous-dependencies': 0,
+    'import/no-named-as-default': 0,
     'import/extensions': 0,
     'class-methods-use-this': 0,
+
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0
   },
   globals:{

@@ -6,7 +6,7 @@ console.log('\nProgram is starting!');
 //   npm run start --silent
 // ```
 
-// Task 1. import the secret from `a.js`
+// Task 1. import the secret property from `a.js`
 const secret = 'No secret yet...'; // Replace me with import
 console.log('\n\nTask 1.\nResult: ' + secret);
 
